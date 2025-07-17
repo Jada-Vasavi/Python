@@ -1,0 +1,5 @@
+Str= input('Enter the string :')
+Char= input('Enter character :')
+freq= 0
+freq= Str.count(Char)
+print(str(freq) + ' is the frequency of given character')

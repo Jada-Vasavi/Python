@@ -1,1 +1,0 @@
-Check if the given number is a Perfect number or not. A perfect number is a positive integer that is equal to the sum of its proper divisors, excluding the number itself(Example: 28)

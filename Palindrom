@@ -1,0 +1,6 @@
+Str1 = input('Enter the String :')
+Str2 = Str1[::-1]
+if Str1 == Str2:
+    print('String is palindromic')
+else:
+    print('Strings is not palindromic')
